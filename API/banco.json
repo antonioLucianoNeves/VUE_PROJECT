@@ -1,0 +1,14 @@
+{
+    "AlunosFacul": [
+        {
+               "id": 1,
+               "nome": "Marcus",
+               "sobrenome": "Xavier"
+        },
+        {
+            "id": 2,
+            "nome": "Maria",
+            "sobrenome": "Lima"
+        }
+    ]
+}
